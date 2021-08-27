@@ -1,4 +1,4 @@
-name: RDPclient
+name: RDP CLIENT
 
 on: workflow_dispatch
 
